@@ -30,7 +30,8 @@ b=c
 print("Swapped values are:",a,b)
 ```
 output:
-![image](https://github.com/srisrisaranya/Swapping-two-values/assets/148516638/9033aa11-bda1-4cbc-b275-c510e03e3adb)
+![image](https://github.com/srisrisaranya/Swapping-two-values/assets/148516638/60928445-888a-4ac3-9030-2d59b2cf09c1)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
